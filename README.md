@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Riya Raj 👋</h1>
 <h3 align="center">🎓 BCA Student | Full Stack Developer | AI/ML Enthusiast </h3>
 
-<p align="center">
-  <a href="https://github.com/RiyaRaj26"><img src="https://komarev.com/ghpvc/?username=RiyaRaj26&label=Profile%20views&color=0e75b6&style=flat" alt="RiyaRaj26" /></a>
-</p>
-
----
-
 ### 🙋‍♀️ About Me
 
 - 🎓 Currently a **BCA student** exploring the intersection of AI and full-stack development
