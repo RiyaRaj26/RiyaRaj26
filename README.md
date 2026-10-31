@@ -1,36 +1,165 @@
-<h1 align="center">Hi, I'm Riya Raj 👋</h1>
-<h3 align="center">🎓 BCA Student | Full Stack Developer | AI/ML Enthusiast </h3>
+Hi 👋, I'm Riya Raj
 
-### 🙋‍♀️ About Me
+BCA (Hons) Student | Computer Science Enthusiast | Exploring AI/ML & Cybersecurity
 
-- 🎓 Currently a **BCA student** exploring the intersection of AI and full-stack development
-- 🌱 Always learning — right now diving deeper into **Machine Learning & Deep Learning**
-- 💡 I love building projects that solve real problems
-- 📫 Reach me at: **riyaraj262626@gmail.com**
+👩‍💻 About Me
 
----
+I'm a third-year Bachelor of Computer Applications (Honours) student at Parul University, passionate about exploring different areas of computer science and technology.
 
-### 🛠️ Tech Stack
+I enjoy learning how technology works, experimenting with new tools, and developing my technical knowledge through practical learning.
 
-**Languages**
+🎓 Pursuing BCA (Honours) – 3rd Year
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+🏫 Parul University, Vadodara
 
-**AI / ML**
+🤖 Interested in Artificial Intelligence, Machine Learning and Deep Learning.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+🔐 Exploring Cybersecurity, Network Security and Ethical Hacking fundamentals.
 
-**Frontend & Backend**
+💻 Learning programming, web development and software technologies.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+🧠 Interested in Data Structures, Algorithms and problem-solving.
 
----
+🌱 Always curious about emerging technologies and new areas of computer science.
+
+🛠️ Technical Skills
+
+Programming Languages
+
+Python
+
+Java
+
+JavaScript
+
+C
+
+PHP
+
+Web Development
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React
+
+ASP.NET
+
+Artificial Intelligence & Machine Learning
+
+TensorFlow / Keras
+
+Scikit-learn
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Machine Learning Fundamentals
+
+Deep Learning Fundamentals
+
+Neural Networks
+
+Databases & Backend Technologies
+
+SQL
+
+MySQL
+
+Firebase
+
+PHP
+
+Database Management Systems
+
+Cybersecurity & Networking
+
+Nmap
+
+Wireshark
+
+John the Ripper
+
+Network Scanning and Analysis
+
+Network Security Fundamentals
+
+Password Security and Hashing
+
+Cybersecurity Fundamentals
+
+Development Tools
+
+Git
+
+GitHub
+
+Visual Studio Code
+
+XAMPP
+
+Visual Studio
+
+📚 Computer Science Fundamentals
+
+Data Structures and Algorithms
+
+Object-Oriented Programming
+
+Database Management Systems
+
+Software Engineering
+
+Computer Networks
+
+Operating Systems
+
+System Analysis and Design
+
+Information Security
+
+Web Technologies
+
+🌱 Currently Exploring
+
+Advanced Python Programming
+
+Full-Stack Web Development
+
+Artificial Intelligence and Machine Learning
+
+Deep Learning
+
+Cybersecurity and Network Security
+
+Backend Development and API Integration
+
+Software Development Practices
+
+🎯 Areas of Interest
+
+Artificial Intelligence
+
+Machine Learning
+
+Cybersecurity
+
+Software Development
+
+Emerging Technologies
+
+Problem Solving and Research
+
+🤝 Connect With Me
+
+GitHub: @RiyaRaj26
+
+<p align="center">
+  <i>"Curiosity drives learning, and learning drives innovation."</i>
+</p>
